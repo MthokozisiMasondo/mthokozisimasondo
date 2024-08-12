@@ -20,9 +20,12 @@ I'm a Front-End Software Development student, on a journey towards becoming a Se
 📁 Top Repositories
 
 > Business Landing Page (HTML, CSS Tailwind)
+https://github.com/MthokozisiMasondo/SDF_Portfolio_Piece_CS20240186_WFO2407_GroupC_MthokozisiMasondo_SDF11.git
 
 
 > BlackJack Game (HTML, CSS, Javascript)
+https://github.com/MthokozisiMasondo/Module_9R_CS20240186_WFO2407_GroupC_MthokozisiMasondo_SDF09_R.git
+
 
   
 
