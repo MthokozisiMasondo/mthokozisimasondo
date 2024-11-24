@@ -19,9 +19,11 @@ I’m a Front-End Software Developer working towards becoming a Senior Full-Stac
 
 📁 Some of my Projects
 
-> Business Landing Page (HTML, CSS Tailwind) - 
+> Business Landing Page (HTML, CSS Tailwind) -
+
 https://github.com/MthokozisiMasondo/Business-Landing-Page.git
 
 
-> Agile Board Task Management (HTML, CSS, Javascript) - 
+> Agile Board Task Management (HTML, CSS, Javascript)
+
 https://github.com/MthokozisiMasondo/Agile-Board-Task-Management.git
