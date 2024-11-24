@@ -1,8 +1,8 @@
 ## ![wave](https://github.com/user-attachments/assets/cf857b1e-a676-4aa0-8f0b-ea167dc06509) Hi, I am Mthokozisi Masondo!
 
-I'm a Front-End Software Development student, on a journey towards becoming a Senior Full-Stack Developer. I have a passion for solving real world problems through programming. As someone who has commited himself to life long learning, I'm always seeking opportunities for learning and often going out of my way to improve and expand my skills.
+I’m a Front-End Software Developer working towards becoming a Senior Full-Stack Developer. I’m passionate about solving real-world problems through programming and dedicated to continuous learning. Always looking for opportunities to expand my skill set, I actively seek new challenges that allow me to grow both technically and professionally.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mthokozisi-masondo-229219318/) [![Email](https://img.shields.io/badge/Email-Address-red)](mailto:m.masondo2001@gmail,com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mthokozisi-masondo-229219318/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.masondo2001@gmail,com)
 
 🧰 Languages and Tools
 <p align="left">
@@ -17,39 +17,11 @@ I'm a Front-End Software Development student, on a journey towards becoming a Se
 ![MthokozisiMasondo's Stats](https://github-readme-stats.vercel.app/api?username=MthokozisiMasondo&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![MthokozisiMasondo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MthokozisiMasondo&theme=vue-dark&hide_border=false)
 
-📁 Top Repositories
+📁 Some of my Projects
 
-> Business Landing Page (HTML, CSS Tailwind)
-https://github.com/MthokozisiMasondo/SDF_Portfolio_Piece_CS20240186_WFO2407_GroupC_MthokozisiMasondo_SDF11.git
-
-
-> BlackJack Game (HTML, CSS, Javascript)
-https://github.com/MthokozisiMasondo/Module_9R_CS20240186_WFO2407_GroupC_MthokozisiMasondo_SDF09_R.git
+> Business Landing Page (HTML, CSS Tailwind) - 
+https://github.com/MthokozisiMasondo/Business-Landing-Page.git
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**MthokozisiMasondo/mthokozisimasondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Agile Board Task Management (HTML, CSS, Javascript) - 
+https://github.com/MthokozisiMasondo/Agile-Board-Task-Management.git
