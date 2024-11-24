@@ -14,9 +14,6 @@ I’m a Front-End Software Developer working towards becoming a Senior Full-Stac
 <img src= "https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50">
 </p>
 
-![MthokozisiMasondo's Stats](https://github-readme-stats.vercel.app/api?username=MthokozisiMasondo&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![MthokozisiMasondo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MthokozisiMasondo&theme=vue-dark&hide_border=false)
-
 ## 📁 Some of my Projects
 
 > ### Business Landing Page (HTML, CSS Tailwind) -
@@ -27,3 +24,8 @@ https://github.com/MthokozisiMasondo/Business-Landing-Page.git
 > ### Agile Board Task Management (HTML, CSS, Javascript)
 
 https://github.com/MthokozisiMasondo/Agile-Board-Task-Management.git
+
+## 🔢 Stats
+
+![MthokozisiMasondo's Stats](https://github-readme-stats.vercel.app/api?username=MthokozisiMasondo&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![MthokozisiMasondo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MthokozisiMasondo&theme=vue-dark&hide_border=false)
